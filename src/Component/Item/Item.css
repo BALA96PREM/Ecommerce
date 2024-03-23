@@ -1,6 +1,4 @@
-.item{
-    width: 450px;
-}
+
 .item img{
     width: inherit;
     object-fit: fill;
